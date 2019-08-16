@@ -3,7 +3,9 @@
 ## Weekly Project (Total 10 points)
 Create a program that will let you create a simple question generator. 
 
-The program will use both the JavaScript console and the browser. The questions/answers should be displayed in the JavaScript console and answer 'prompt' should be used to accept answer input from the user.
+The program will use both the JavaScript console and the browser. 
+The questions/answers should be displayed in the JavaScript console
+ and answer 'prompt' should be used to accept answer input from the user.
 
 ![Sample Question](https://github.com/cs-fullstack-master/javascript-intermediate-weekly-2/blob/master/2019-08-16_092700.png)
 
@@ -12,7 +14,8 @@ The program will use both the JavaScript console and the browser. The questions/
 #### Create a Class to represent an individual Question (4 points). 
 Your Question class should have 3 properties:
 * Question Text - This is the actual text of the given question 
-* Answers - This should be an array containing the available answers for the question. The number of answers available for a given question is up to the Developer.
+* Answers - This should be an array containing the available answers for the question. 
+The number of answers available for a given question is up to the Developer.
 * Correct Answer Index - This integer should be the index of the correct answer in your answer array.
 
 Your Question Class should have at least 2 methods:
